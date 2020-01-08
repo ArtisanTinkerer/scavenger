@@ -1,6 +1,6 @@
-# scavenger
+# Scavenger
 
-A Python project to create scavenger hunts for kids
+A Python project to create scavenger hunts for kids.
 
 
 ## Ideas
